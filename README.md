@@ -2,13 +2,13 @@
 First HTML / CSS webpage for PR4
 
 
-Práctica 4: HTML+CSS
+##Práctica 4: HTML+CSS
 Parte 1
 Se desea construir un servidor para mostrar recorridos de rutas turisticas en la isla de Gran Canaria. La información debe ser lo más real posible, pudiendo obtenerse de los sitios webs más adecuados.
 La página principal, que se llamará "index.html", debe contener un texto descriptivo de la web, el listado de las rutas disponibles (al menos 5) y el enlace a una tabla "tabla.html" resumen de las rutas.
 Deben crearse páginas separadas que muestren cada una de las rutas. Estas páginas deben contener:
 
-Título del recorrido
+>Título del recorrido
 Tiempo estimado
 Transportes a usar
 Época del año recomendada para realizarla
